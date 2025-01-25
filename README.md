@@ -16,7 +16,7 @@
  </div>
  
 <div align="center"> 
-  <a href="viragborikar123@gmail.com">
+  <a href="virag:viragborikar123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.instagram.com/vi_r_agg_?igsh=MXV6anByZTNtc3N5MQ==" target="_blank">
